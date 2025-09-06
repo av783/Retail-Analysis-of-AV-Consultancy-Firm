@@ -1,0 +1,51 @@
+Employee_ID,Job_Title,Annual_Leave_Days,Sick_Leave_Days,Bonus_INR,Store_ID,Total_Leave_Days,Country,State,City,Size_SqFt,Num_Employees,Trading_Duration_Years,Revenue_INR
+1,Manager,14,6,52098,4,20,India,Haryana,Faridabad,10651,13,2,82541181
+2,Sales Rep,25,3,108696,12,28,India,Uttar Pradesh,Noida,10454,28,7,423979715
+3,Analyst,15,8,24165,1,23,India,Delhi,Delhi,14851,46,10,303763327
+4,Manager,17,5,86237,10,22,India,Haryana,Faridabad,10956,40,4,265306864
+5,Manager,22,5,113850,11,27,India,Haryana,Gurugram,5697,34,1,259606084
+6,Analyst,20,5,78878,10,25,India,Haryana,Faridabad,10956,40,4,265306864
+7,Technician,14,4,111506,7,18,India,Haryana,Faridabad,6006,27,8,184113815
+8,Technician,18,4,48221,13,22,India,Uttar Pradesh,Ghaziabad,13844,41,3,151950641
+9,Technician,15,3,69797,2,18,India,Delhi,Delhi,10749,36,4,100640778
+10,Technician,19,6,125791,1,25,India,Delhi,Delhi,14851,46,10,303763327
+11,Engineer,22,3,147548,15,25,India,Uttar Pradesh,Ghaziabad,3998,30,1,76919960
+12,Engineer,15,10,58427,14,25,India,Uttar Pradesh,Noida,6566,13,10,444995888
+13,Analyst,19,5,112349,2,24,India,Delhi,Delhi,10749,36,4,100640778
+14,Manager,24,5,121327,5,29,India,Haryana,Faridabad,14931,31,2,183496352
+15,Manager,17,3,69823,5,20,India,Haryana,Faridabad,14931,31,2,183496352
+16,Engineer,24,7,41319,6,31,India,Delhi,Delhi,6116,44,8,125259798
+17,Technician,17,6,111988,15,23,India,Uttar Pradesh,Ghaziabad,3998,30,1,76919960
+18,Manager,23,4,90010,12,27,India,Uttar Pradesh,Noida,10454,28,7,423979715
+19,Sales Rep,16,9,69735,5,25,India,Haryana,Faridabad,14931,31,2,183496352
+20,Analyst,17,7,130474,13,24,India,Uttar Pradesh,Ghaziabad,13844,41,3,151950641
+21,Manager,17,2,125518,6,19,India,Delhi,Delhi,6116,44,8,125259798
+22,Engineer,18,3,47653,15,21,India,Uttar Pradesh,Ghaziabad,3998,30,1,76919960
+23,Analyst,25,7,47869,11,32,India,Haryana,Gurugram,5697,34,1,259606084
+24,Engineer,20,9,38726,5,29,India,Haryana,Faridabad,14931,31,2,183496352
+25,Sales Rep,17,10,90644,5,27,India,Haryana,Faridabad,14931,31,2,183496352
+26,Analyst,20,8,67447,4,28,India,Haryana,Faridabad,10651,13,2,82541181
+27,Sales Rep,22,9,31915,13,31,India,Uttar Pradesh,Ghaziabad,13844,41,3,151950641
+28,Manager,15,4,102240,3,19,India,Haryana,Gurugram,13796,37,6,277407042
+29,Engineer,23,3,70432,7,26,India,Haryana,Faridabad,6006,27,8,184113815
+30,Analyst,21,10,52953,9,31,India,Uttar Pradesh,Ghaziabad,3241,15,4,139287596
+31,Manager,24,3,109353,15,27,India,Uttar Pradesh,Ghaziabad,3998,30,1,76919960
+32,Analyst,18,7,34621,5,25,India,Haryana,Faridabad,14931,31,2,183496352
+33,Engineer,16,9,20425,12,25,India,Uttar Pradesh,Noida,10454,28,7,423979715
+34,Technician,22,4,86542,15,26,India,Uttar Pradesh,Ghaziabad,3998,30,1,76919960
+35,Manager,24,6,130319,11,30,India,Haryana,Gurugram,5697,34,1,259606084
+36,Analyst,23,5,40032,6,28,India,Delhi,Delhi,6116,44,8,125259798
+37,Sales Rep,22,10,140388,1,32,India,Delhi,Delhi,14851,46,10,303763327
+38,Analyst,19,9,22552,2,28,India,Delhi,Delhi,10749,36,4,100640778
+39,Technician,18,5,27592,4,23,India,Haryana,Faridabad,10651,13,2,82541181
+40,Analyst,15,3,115932,8,18,India,Haryana,Gurugram,10260,45,2,77159403
+41,Manager,22,4,36828,11,26,India,Haryana,Gurugram,5697,34,1,259606084
+42,Engineer,22,4,54741,9,26,India,Uttar Pradesh,Ghaziabad,3241,15,4,139287596
+43,Analyst,20,5,141754,9,25,India,Uttar Pradesh,Ghaziabad,3241,15,4,139287596
+44,Sales Rep,25,6,72296,11,31,India,Haryana,Gurugram,5697,34,1,259606084
+45,Technician,21,10,79177,2,31,India,Delhi,Delhi,10749,36,4,100640778
+46,Sales Rep,17,3,64313,1,20,India,Delhi,Delhi,14851,46,10,303763327
+47,Analyst,22,5,97128,4,27,India,Haryana,Faridabad,10651,13,2,82541181
+48,Manager,15,2,50007,2,17,India,Delhi,Delhi,10749,36,4,100640778
+49,Manager,19,3,87391,4,22,India,Haryana,Faridabad,10651,13,2,82541181
+50,Technician,24,9,48080,9,33,India,Uttar Pradesh,Ghaziabad,3241,15,4,139287596

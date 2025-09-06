@@ -1,0 +1,81 @@
+Sale_ID,Date,Country,Region,City,Product_Category,Revenue_INR,Units_Sold
+1,2024-02-29,India,North,Ghaziabad,Controller,11323375,69
+2,2023-12-06,India,North,Noida,Shotgun Mic,10034236,65
+3,2025-08-03,India,North,Gurugram,Touch Screen Table Top Unit Wired Chairman,307169127,79
+4,2023-12-06,India,North,Noida,All In One Video Bar,6766369,53
+5,2024-11-05,India,North,Gurugram,"75"" Interactive Flat Panel Display",231367683,10
+6,2025-06-20,India,North,Gurugram,Digital Podium,419736087,64
+7,2025-07-16,India,North,Noida,"All IN ONE Video Wall 136""",6869075,62
+8,2025-05-08,India,North,Faridabad,Ceiling Speaker,13442966,56
+9,2023-11-08,India,North,Faridabad,"98"" Interactive Flat Panel Display",14111138,36
+10,2024-01-10,India,North,Faridabad,"All IN ONE Video Wall 108""",7375085,84
+11,2025-07-25,India,North,Faridabad,Ceiling Tile Microphone,12296899,51
+12,2025-06-29,India,North,Gurugram,"75"" Interactive Flat Panel Display",174897800,27
+13,2024-02-05,India,North,Delhi,Digital Network Table Top Unit Chairman,438636973,57
+14,2025-06-01,India,North,Delhi,AV Controller,311633103,28
+15,2025-08-20,India,North,Gurugram,Wall Mounts,143441622,72
+16,2024-12-02,India,North,Noida,4*3 Column Speaker,10034712,71
+17,2025-06-07,India,North,Faridabad,8*3 Column Speaker,9085566,74
+18,2024-07-05,India,North,Ghaziabad,Bronx Illuminated Button,5607871,46
+19,2025-03-19,India,North,Noida,"55"" Interactive Flat Panel Display",12830034,75
+20,2024-05-10,India,North,Faridabad,4 - Channel DSP Digital Power Amplifier,8627387,31
+21,2024-06-22,India,North,Gurugram,1 x 8 HDMI Splitter,343846784,44
+22,2024-04-19,India,North,Delhi,Controller,113582854,22
+23,2025-02-10,India,North,Delhi,Digital Podium,225355427,78
+24,2024-05-30,India,North,Ghaziabad,"110"" Interactive Flat Panel Display",10677657,82
+25,2024-03-03,India,North,Gurugram,Speakerphone,34090411,55
+26,2024-12-20,India,North,Delhi,1 x 8 HDMI Splitter,145463645,48
+27,2024-05-31,India,North,Gurugram,6 zone 500 watt PA controller,158806098,88
+28,2024-09-21,India,North,Noida,6 zone 500 watt PA controller,7841040,18
+29,2024-11-24,India,North,Gurugram,Wireless Conference Controller,360537924,22
+30,2024-01-11,India,North,Ghaziabad,1 x 8 HDMI Splitter,14368317,68
+31,2025-01-26,India,North,Delhi,"86"" Interactive Flat Panel Display",440984649,68
+32,2025-03-19,India,North,Ghaziabad,Digital Podium,7474650,17
+33,2025-01-04,India,North,Delhi,Transmitter (120m),117442873,19
+34,2025-08-21,India,North,Ghaziabad,1 x 8 HDMI Splitter,7636721,77
+35,2024-11-17,India,North,Noida,"75"" Interactive Flat Panel Display",9726327,12
+36,2024-12-22,India,North,Ghaziabad,"75"" Interactive Flat Panel Display",5622502,47
+37,2024-09-25,India,North,Gurugram,"110"" Interactive Flat Panel Display",94336573,78
+38,2023-10-12,India,North,Delhi,16 x 16 Matrix Switcher,18829520,38
+39,2024-02-28,India,North,Ghaziabad,Digital Podium,10899163,45
+40,2024-04-21,India,North,Faridabad,12 Zone network paging microphone for SR-6500,12428963,12
+41,2025-08-14,India,North,Gurugram,"75"" Interactive Flat Panel Display",263873464,34
+42,2023-12-24,India,North,Faridabad,Bronx Illuminated Button,5494442,16
+43,2024-10-26,India,North,Ghaziabad,Speakerphone,6030459,70
+44,2024-04-15,India,North,Gurugram,SMD Outdoor Active LED Module Based,301621056,57
+45,2024-11-03,India,North,Ghaziabad,Digital Network Table Top Unit Chairman,10315517,76
+46,2025-01-29,India,North,Noida,Flush Mount Unit Delegate,8176527,16
+47,2024-06-30,India,North,Noida,SMD Outdoor Active LED Module Based,14064118,87
+48,2024-07-20,India,North,Gurugram,AV Bridge,65919488,37
+49,2024-07-09,India,North,Ghaziabad,"All IN ONE Video Wall 108""",9401222,66
+50,2025-08-14,India,North,Gurugram,Room Controller,412287909,50
+51,2024-03-01,India,North,Gurugram,Encoder,355653205,53
+52,2025-04-05,India,North,Noida,All In One Video Bar,13318543,61
+53,2024-01-06,India,North,Noida,4 x 2 Multiviewer,13495264,55
+54,2025-03-09,India,North,Faridabad,8*3 Column Speaker,12954069,49
+55,2024-10-27,India,North,Gurugram,4 - Channel DSP Digital Power Amplifier,296516732,64
+56,2025-03-08,India,North,Ghaziabad,Transmitter (120m),8227492,11
+57,2025-04-13,India,North,Ghaziabad,6 zone 500 watt PA controller,6448708,34
+58,2025-03-26,India,North,Ghaziabad,4*3 Column Speaker,9102585,29
+59,2024-06-01,India,North,Ghaziabad,64 x 64 Dante DSP,13263486,30
+60,2025-02-27,India,North,Noida,Wireless Headworn Microphone,12103560,28
+61,2025-03-24,India,North,Faridabad,Flush Mount Unit Delegate,11709907,62
+62,2024-09-19,India,North,Delhi,Battery,349987432,88
+63,2024-08-30,India,North,Noida,16 x 16 Matrix Switcher,5623273,85
+64,2024-07-18,India,North,Faridabad,12X PTZ Camera,12744315,85
+65,2024-01-20,India,North,Noida,Gooseneck Mic,6752400,30
+66,2024-08-18,India,North,Ghaziabad,2 Channel Power Amplifer,12871852,62
+67,2025-05-06,India,North,Noida,Encoder,8967092,67
+68,2025-03-11,India,North,Ghaziabad,Wired Conference Controller,5658551,78
+69,2025-04-10,India,North,Delhi,12X Speaker Tracking PTZ Camera,108944009,34
+70,2024-01-02,India,North,Noida,Digital Network Table Top Unit Chairman,7687648,14
+71,2024-04-07,India,North,Delhi,8 x 8 Matrix Switcher,39134085,65
+72,2025-04-22,India,North,Delhi,6 zone 500 watt PA controller,233367851,63
+73,2024-10-16,India,North,Delhi,12 Zone network paging microphone for SR-6500,388053714,19
+74,2025-04-02,India,North,Delhi,4 x 2 Multiviewer,255357408,80
+75,2024-01-05,India,North,Delhi,Bronx Illuminated Button,58207003,79
+76,2024-10-27,India,North,Gurugram,"110"" Interactive Flat Panel Display",133559015,44
+77,2025-01-17,India,North,Noida,Wireless Presentation Device,13390188,63
+78,2025-04-19,India,North,Ghaziabad,Digital Podium,11800182,72
+79,2024-02-03,India,North,Noida,WiFi based Wireless Touch Screen Conference Unit,6152895,34
+80,2025-01-28,India,North,Noida,4 - Channel DSP Digital Power Amplifier,12972251,56

@@ -1,0 +1,233 @@
+Sale_ID,Date,Country_x,Region,City,Product_Category,Revenue_INR_x,Units_Sold,Revenue_per_Unit,Store_ID,Country_y,State,Size_SqFt,Num_Employees,Trading_Duration_Years,Revenue_INR_y
+1,2024-02-29,India,North,Ghaziabad,Controller,11323375,69,164106.884057971,9,India,Uttar Pradesh,3241,15,4,139287596
+1,2024-02-29,India,North,Ghaziabad,Controller,11323375,69,164106.884057971,13,India,Uttar Pradesh,13844,41,3,151950641
+1,2024-02-29,India,North,Ghaziabad,Controller,11323375,69,164106.884057971,15,India,Uttar Pradesh,3998,30,1,76919960
+2,2023-12-06,India,North,Noida,Shotgun Mic,10034236,65,154372.86153846153,12,India,Uttar Pradesh,10454,28,7,423979715
+2,2023-12-06,India,North,Noida,Shotgun Mic,10034236,65,154372.86153846153,14,India,Uttar Pradesh,6566,13,10,444995888
+3,2025-08-03,India,North,Gurugram,Touch Screen Table Top Unit Wired Chairman,307169127,79,3888216.7974683545,3,India,Haryana,13796,37,6,277407042
+3,2025-08-03,India,North,Gurugram,Touch Screen Table Top Unit Wired Chairman,307169127,79,3888216.7974683545,8,India,Haryana,10260,45,2,77159403
+3,2025-08-03,India,North,Gurugram,Touch Screen Table Top Unit Wired Chairman,307169127,79,3888216.7974683545,11,India,Haryana,5697,34,1,259606084
+4,2023-12-06,India,North,Noida,All In One Video Bar,6766369,53,127667.3396226415,12,India,Uttar Pradesh,10454,28,7,423979715
+4,2023-12-06,India,North,Noida,All In One Video Bar,6766369,53,127667.3396226415,14,India,Uttar Pradesh,6566,13,10,444995888
+5,2024-11-05,India,North,Gurugram,"75"" Interactive Flat Panel Display",231367683,10,23136768.3,3,India,Haryana,13796,37,6,277407042
+5,2024-11-05,India,North,Gurugram,"75"" Interactive Flat Panel Display",231367683,10,23136768.3,8,India,Haryana,10260,45,2,77159403
+5,2024-11-05,India,North,Gurugram,"75"" Interactive Flat Panel Display",231367683,10,23136768.3,11,India,Haryana,5697,34,1,259606084
+6,2025-06-20,India,North,Gurugram,Digital Podium,419736087,64,6558376.359375,3,India,Haryana,13796,37,6,277407042
+6,2025-06-20,India,North,Gurugram,Digital Podium,419736087,64,6558376.359375,8,India,Haryana,10260,45,2,77159403
+6,2025-06-20,India,North,Gurugram,Digital Podium,419736087,64,6558376.359375,11,India,Haryana,5697,34,1,259606084
+7,2025-07-16,India,North,Noida,"All IN ONE Video Wall 136""",6869075,62,110791.53225806452,12,India,Uttar Pradesh,10454,28,7,423979715
+7,2025-07-16,India,North,Noida,"All IN ONE Video Wall 136""",6869075,62,110791.53225806452,14,India,Uttar Pradesh,6566,13,10,444995888
+8,2025-05-08,India,North,Faridabad,Ceiling Speaker,13442966,56,240052.9642857143,4,India,Haryana,10651,13,2,82541181
+8,2025-05-08,India,North,Faridabad,Ceiling Speaker,13442966,56,240052.9642857143,5,India,Haryana,14931,31,2,183496352
+8,2025-05-08,India,North,Faridabad,Ceiling Speaker,13442966,56,240052.9642857143,7,India,Haryana,6006,27,8,184113815
+8,2025-05-08,India,North,Faridabad,Ceiling Speaker,13442966,56,240052.9642857143,10,India,Haryana,10956,40,4,265306864
+9,2023-11-08,India,North,Faridabad,"98"" Interactive Flat Panel Display",14111138,36,391976.05555555556,4,India,Haryana,10651,13,2,82541181
+9,2023-11-08,India,North,Faridabad,"98"" Interactive Flat Panel Display",14111138,36,391976.05555555556,5,India,Haryana,14931,31,2,183496352
+9,2023-11-08,India,North,Faridabad,"98"" Interactive Flat Panel Display",14111138,36,391976.05555555556,7,India,Haryana,6006,27,8,184113815
+9,2023-11-08,India,North,Faridabad,"98"" Interactive Flat Panel Display",14111138,36,391976.05555555556,10,India,Haryana,10956,40,4,265306864
+10,2024-01-10,India,North,Faridabad,"All IN ONE Video Wall 108""",7375085,84,87798.63095238095,4,India,Haryana,10651,13,2,82541181
+10,2024-01-10,India,North,Faridabad,"All IN ONE Video Wall 108""",7375085,84,87798.63095238095,5,India,Haryana,14931,31,2,183496352
+10,2024-01-10,India,North,Faridabad,"All IN ONE Video Wall 108""",7375085,84,87798.63095238095,7,India,Haryana,6006,27,8,184113815
+10,2024-01-10,India,North,Faridabad,"All IN ONE Video Wall 108""",7375085,84,87798.63095238095,10,India,Haryana,10956,40,4,265306864
+11,2025-07-25,India,North,Faridabad,Ceiling Tile Microphone,12296899,51,241115.66666666666,4,India,Haryana,10651,13,2,82541181
+11,2025-07-25,India,North,Faridabad,Ceiling Tile Microphone,12296899,51,241115.66666666666,5,India,Haryana,14931,31,2,183496352
+11,2025-07-25,India,North,Faridabad,Ceiling Tile Microphone,12296899,51,241115.66666666666,7,India,Haryana,6006,27,8,184113815
+11,2025-07-25,India,North,Faridabad,Ceiling Tile Microphone,12296899,51,241115.66666666666,10,India,Haryana,10956,40,4,265306864
+12,2025-06-29,India,North,Gurugram,"75"" Interactive Flat Panel Display",174897800,27,6477696.296296297,3,India,Haryana,13796,37,6,277407042
+12,2025-06-29,India,North,Gurugram,"75"" Interactive Flat Panel Display",174897800,27,6477696.296296297,8,India,Haryana,10260,45,2,77159403
+12,2025-06-29,India,North,Gurugram,"75"" Interactive Flat Panel Display",174897800,27,6477696.296296297,11,India,Haryana,5697,34,1,259606084
+13,2024-02-05,India,North,Delhi,Digital Network Table Top Unit Chairman,438636973,57,7695385.49122807,1,India,Delhi,14851,46,10,303763327
+13,2024-02-05,India,North,Delhi,Digital Network Table Top Unit Chairman,438636973,57,7695385.49122807,2,India,Delhi,10749,36,4,100640778
+13,2024-02-05,India,North,Delhi,Digital Network Table Top Unit Chairman,438636973,57,7695385.49122807,6,India,Delhi,6116,44,8,125259798
+14,2025-06-01,India,North,Delhi,AV Controller,311633103,28,11129753.67857143,1,India,Delhi,14851,46,10,303763327
+14,2025-06-01,India,North,Delhi,AV Controller,311633103,28,11129753.67857143,2,India,Delhi,10749,36,4,100640778
+14,2025-06-01,India,North,Delhi,AV Controller,311633103,28,11129753.67857143,6,India,Delhi,6116,44,8,125259798
+15,2025-08-20,India,North,Gurugram,Wall Mounts,143441622,72,1992244.75,3,India,Haryana,13796,37,6,277407042
+15,2025-08-20,India,North,Gurugram,Wall Mounts,143441622,72,1992244.75,8,India,Haryana,10260,45,2,77159403
+15,2025-08-20,India,North,Gurugram,Wall Mounts,143441622,72,1992244.75,11,India,Haryana,5697,34,1,259606084
+16,2024-12-02,India,North,Noida,4*3 Column Speaker,10034712,71,141333.97183098592,12,India,Uttar Pradesh,10454,28,7,423979715
+16,2024-12-02,India,North,Noida,4*3 Column Speaker,10034712,71,141333.97183098592,14,India,Uttar Pradesh,6566,13,10,444995888
+17,2025-06-07,India,North,Faridabad,8*3 Column Speaker,9085566,74,122777.91891891892,4,India,Haryana,10651,13,2,82541181
+17,2025-06-07,India,North,Faridabad,8*3 Column Speaker,9085566,74,122777.91891891892,5,India,Haryana,14931,31,2,183496352
+17,2025-06-07,India,North,Faridabad,8*3 Column Speaker,9085566,74,122777.91891891892,7,India,Haryana,6006,27,8,184113815
+17,2025-06-07,India,North,Faridabad,8*3 Column Speaker,9085566,74,122777.91891891892,10,India,Haryana,10956,40,4,265306864
+18,2024-07-05,India,North,Ghaziabad,Bronx Illuminated Button,5607871,46,121910.23913043478,9,India,Uttar Pradesh,3241,15,4,139287596
+18,2024-07-05,India,North,Ghaziabad,Bronx Illuminated Button,5607871,46,121910.23913043478,13,India,Uttar Pradesh,13844,41,3,151950641
+18,2024-07-05,India,North,Ghaziabad,Bronx Illuminated Button,5607871,46,121910.23913043478,15,India,Uttar Pradesh,3998,30,1,76919960
+19,2025-03-19,India,North,Noida,"55"" Interactive Flat Panel Display",12830034,75,171067.12,12,India,Uttar Pradesh,10454,28,7,423979715
+19,2025-03-19,India,North,Noida,"55"" Interactive Flat Panel Display",12830034,75,171067.12,14,India,Uttar Pradesh,6566,13,10,444995888
+20,2024-05-10,India,North,Faridabad,4 - Channel DSP Digital Power Amplifier,8627387,31,278302.8064516129,4,India,Haryana,10651,13,2,82541181
+20,2024-05-10,India,North,Faridabad,4 - Channel DSP Digital Power Amplifier,8627387,31,278302.8064516129,5,India,Haryana,14931,31,2,183496352
+20,2024-05-10,India,North,Faridabad,4 - Channel DSP Digital Power Amplifier,8627387,31,278302.8064516129,7,India,Haryana,6006,27,8,184113815
+20,2024-05-10,India,North,Faridabad,4 - Channel DSP Digital Power Amplifier,8627387,31,278302.8064516129,10,India,Haryana,10956,40,4,265306864
+21,2024-06-22,India,North,Gurugram,1 x 8 HDMI Splitter,343846784,44,7814699.636363637,3,India,Haryana,13796,37,6,277407042
+21,2024-06-22,India,North,Gurugram,1 x 8 HDMI Splitter,343846784,44,7814699.636363637,8,India,Haryana,10260,45,2,77159403
+21,2024-06-22,India,North,Gurugram,1 x 8 HDMI Splitter,343846784,44,7814699.636363637,11,India,Haryana,5697,34,1,259606084
+22,2024-04-19,India,North,Delhi,Controller,113582854,22,5162857.0,1,India,Delhi,14851,46,10,303763327
+22,2024-04-19,India,North,Delhi,Controller,113582854,22,5162857.0,2,India,Delhi,10749,36,4,100640778
+22,2024-04-19,India,North,Delhi,Controller,113582854,22,5162857.0,6,India,Delhi,6116,44,8,125259798
+23,2025-02-10,India,North,Delhi,Digital Podium,225355427,78,2889172.141025641,1,India,Delhi,14851,46,10,303763327
+23,2025-02-10,India,North,Delhi,Digital Podium,225355427,78,2889172.141025641,2,India,Delhi,10749,36,4,100640778
+23,2025-02-10,India,North,Delhi,Digital Podium,225355427,78,2889172.141025641,6,India,Delhi,6116,44,8,125259798
+24,2024-05-30,India,North,Ghaziabad,"110"" Interactive Flat Panel Display",10677657,82,130215.32926829268,9,India,Uttar Pradesh,3241,15,4,139287596
+24,2024-05-30,India,North,Ghaziabad,"110"" Interactive Flat Panel Display",10677657,82,130215.32926829268,13,India,Uttar Pradesh,13844,41,3,151950641
+24,2024-05-30,India,North,Ghaziabad,"110"" Interactive Flat Panel Display",10677657,82,130215.32926829268,15,India,Uttar Pradesh,3998,30,1,76919960
+25,2024-03-03,India,North,Gurugram,Speakerphone,34090411,55,619825.6545454545,3,India,Haryana,13796,37,6,277407042
+25,2024-03-03,India,North,Gurugram,Speakerphone,34090411,55,619825.6545454545,8,India,Haryana,10260,45,2,77159403
+25,2024-03-03,India,North,Gurugram,Speakerphone,34090411,55,619825.6545454545,11,India,Haryana,5697,34,1,259606084
+26,2024-12-20,India,North,Delhi,1 x 8 HDMI Splitter,145463645,48,3030492.6041666665,1,India,Delhi,14851,46,10,303763327
+26,2024-12-20,India,North,Delhi,1 x 8 HDMI Splitter,145463645,48,3030492.6041666665,2,India,Delhi,10749,36,4,100640778
+26,2024-12-20,India,North,Delhi,1 x 8 HDMI Splitter,145463645,48,3030492.6041666665,6,India,Delhi,6116,44,8,125259798
+27,2024-05-31,India,North,Gurugram,6 zone 500 watt PA controller,158806098,88,1804614.75,3,India,Haryana,13796,37,6,277407042
+27,2024-05-31,India,North,Gurugram,6 zone 500 watt PA controller,158806098,88,1804614.75,8,India,Haryana,10260,45,2,77159403
+27,2024-05-31,India,North,Gurugram,6 zone 500 watt PA controller,158806098,88,1804614.75,11,India,Haryana,5697,34,1,259606084
+28,2024-09-21,India,North,Noida,6 zone 500 watt PA controller,7841040,18,435613.3333333333,12,India,Uttar Pradesh,10454,28,7,423979715
+28,2024-09-21,India,North,Noida,6 zone 500 watt PA controller,7841040,18,435613.3333333333,14,India,Uttar Pradesh,6566,13,10,444995888
+29,2024-11-24,India,North,Gurugram,Wireless Conference Controller,360537924,22,16388087.454545455,3,India,Haryana,13796,37,6,277407042
+29,2024-11-24,India,North,Gurugram,Wireless Conference Controller,360537924,22,16388087.454545455,8,India,Haryana,10260,45,2,77159403
+29,2024-11-24,India,North,Gurugram,Wireless Conference Controller,360537924,22,16388087.454545455,11,India,Haryana,5697,34,1,259606084
+30,2024-01-11,India,North,Ghaziabad,1 x 8 HDMI Splitter,14368317,68,211298.7794117647,9,India,Uttar Pradesh,3241,15,4,139287596
+30,2024-01-11,India,North,Ghaziabad,1 x 8 HDMI Splitter,14368317,68,211298.7794117647,13,India,Uttar Pradesh,13844,41,3,151950641
+30,2024-01-11,India,North,Ghaziabad,1 x 8 HDMI Splitter,14368317,68,211298.7794117647,15,India,Uttar Pradesh,3998,30,1,76919960
+31,2025-01-26,India,North,Delhi,"86"" Interactive Flat Panel Display",440984649,68,6485068.367647059,1,India,Delhi,14851,46,10,303763327
+31,2025-01-26,India,North,Delhi,"86"" Interactive Flat Panel Display",440984649,68,6485068.367647059,2,India,Delhi,10749,36,4,100640778
+31,2025-01-26,India,North,Delhi,"86"" Interactive Flat Panel Display",440984649,68,6485068.367647059,6,India,Delhi,6116,44,8,125259798
+32,2025-03-19,India,North,Ghaziabad,Digital Podium,7474650,17,439685.29411764705,9,India,Uttar Pradesh,3241,15,4,139287596
+32,2025-03-19,India,North,Ghaziabad,Digital Podium,7474650,17,439685.29411764705,13,India,Uttar Pradesh,13844,41,3,151950641
+32,2025-03-19,India,North,Ghaziabad,Digital Podium,7474650,17,439685.29411764705,15,India,Uttar Pradesh,3998,30,1,76919960
+33,2025-01-04,India,North,Delhi,Transmitter (120m),117442873,19,6181203.842105263,1,India,Delhi,14851,46,10,303763327
+33,2025-01-04,India,North,Delhi,Transmitter (120m),117442873,19,6181203.842105263,2,India,Delhi,10749,36,4,100640778
+33,2025-01-04,India,North,Delhi,Transmitter (120m),117442873,19,6181203.842105263,6,India,Delhi,6116,44,8,125259798
+34,2025-08-21,India,North,Ghaziabad,1 x 8 HDMI Splitter,7636721,77,99178.1948051948,9,India,Uttar Pradesh,3241,15,4,139287596
+34,2025-08-21,India,North,Ghaziabad,1 x 8 HDMI Splitter,7636721,77,99178.1948051948,13,India,Uttar Pradesh,13844,41,3,151950641
+34,2025-08-21,India,North,Ghaziabad,1 x 8 HDMI Splitter,7636721,77,99178.1948051948,15,India,Uttar Pradesh,3998,30,1,76919960
+35,2024-11-17,India,North,Noida,"75"" Interactive Flat Panel Display",9726327,12,810527.25,12,India,Uttar Pradesh,10454,28,7,423979715
+35,2024-11-17,India,North,Noida,"75"" Interactive Flat Panel Display",9726327,12,810527.25,14,India,Uttar Pradesh,6566,13,10,444995888
+36,2024-12-22,India,North,Ghaziabad,"75"" Interactive Flat Panel Display",5622502,47,119627.70212765958,9,India,Uttar Pradesh,3241,15,4,139287596
+36,2024-12-22,India,North,Ghaziabad,"75"" Interactive Flat Panel Display",5622502,47,119627.70212765958,13,India,Uttar Pradesh,13844,41,3,151950641
+36,2024-12-22,India,North,Ghaziabad,"75"" Interactive Flat Panel Display",5622502,47,119627.70212765958,15,India,Uttar Pradesh,3998,30,1,76919960
+37,2024-09-25,India,North,Gurugram,"110"" Interactive Flat Panel Display",94336573,78,1209443.2435897435,3,India,Haryana,13796,37,6,277407042
+37,2024-09-25,India,North,Gurugram,"110"" Interactive Flat Panel Display",94336573,78,1209443.2435897435,8,India,Haryana,10260,45,2,77159403
+37,2024-09-25,India,North,Gurugram,"110"" Interactive Flat Panel Display",94336573,78,1209443.2435897435,11,India,Haryana,5697,34,1,259606084
+38,2023-10-12,India,North,Delhi,16 x 16 Matrix Switcher,18829520,38,495513.6842105263,1,India,Delhi,14851,46,10,303763327
+38,2023-10-12,India,North,Delhi,16 x 16 Matrix Switcher,18829520,38,495513.6842105263,2,India,Delhi,10749,36,4,100640778
+38,2023-10-12,India,North,Delhi,16 x 16 Matrix Switcher,18829520,38,495513.6842105263,6,India,Delhi,6116,44,8,125259798
+39,2024-02-28,India,North,Ghaziabad,Digital Podium,10899163,45,242203.6222222222,9,India,Uttar Pradesh,3241,15,4,139287596
+39,2024-02-28,India,North,Ghaziabad,Digital Podium,10899163,45,242203.6222222222,13,India,Uttar Pradesh,13844,41,3,151950641
+39,2024-02-28,India,North,Ghaziabad,Digital Podium,10899163,45,242203.6222222222,15,India,Uttar Pradesh,3998,30,1,76919960
+40,2024-04-21,India,North,Faridabad,12 Zone network paging microphone for SR-6500,12428963,12,1035746.9166666666,4,India,Haryana,10651,13,2,82541181
+40,2024-04-21,India,North,Faridabad,12 Zone network paging microphone for SR-6500,12428963,12,1035746.9166666666,5,India,Haryana,14931,31,2,183496352
+40,2024-04-21,India,North,Faridabad,12 Zone network paging microphone for SR-6500,12428963,12,1035746.9166666666,7,India,Haryana,6006,27,8,184113815
+40,2024-04-21,India,North,Faridabad,12 Zone network paging microphone for SR-6500,12428963,12,1035746.9166666666,10,India,Haryana,10956,40,4,265306864
+41,2025-08-14,India,North,Gurugram,"75"" Interactive Flat Panel Display",263873464,34,7760984.235294118,3,India,Haryana,13796,37,6,277407042
+41,2025-08-14,India,North,Gurugram,"75"" Interactive Flat Panel Display",263873464,34,7760984.235294118,8,India,Haryana,10260,45,2,77159403
+41,2025-08-14,India,North,Gurugram,"75"" Interactive Flat Panel Display",263873464,34,7760984.235294118,11,India,Haryana,5697,34,1,259606084
+42,2023-12-24,India,North,Faridabad,Bronx Illuminated Button,5494442,16,343402.625,4,India,Haryana,10651,13,2,82541181
+42,2023-12-24,India,North,Faridabad,Bronx Illuminated Button,5494442,16,343402.625,5,India,Haryana,14931,31,2,183496352
+42,2023-12-24,India,North,Faridabad,Bronx Illuminated Button,5494442,16,343402.625,7,India,Haryana,6006,27,8,184113815
+42,2023-12-24,India,North,Faridabad,Bronx Illuminated Button,5494442,16,343402.625,10,India,Haryana,10956,40,4,265306864
+43,2024-10-26,India,North,Ghaziabad,Speakerphone,6030459,70,86149.41428571429,9,India,Uttar Pradesh,3241,15,4,139287596
+43,2024-10-26,India,North,Ghaziabad,Speakerphone,6030459,70,86149.41428571429,13,India,Uttar Pradesh,13844,41,3,151950641
+43,2024-10-26,India,North,Ghaziabad,Speakerphone,6030459,70,86149.41428571429,15,India,Uttar Pradesh,3998,30,1,76919960
+44,2024-04-15,India,North,Gurugram,SMD Outdoor Active LED Module Based,301621056,57,5291597.47368421,3,India,Haryana,13796,37,6,277407042
+44,2024-04-15,India,North,Gurugram,SMD Outdoor Active LED Module Based,301621056,57,5291597.47368421,8,India,Haryana,10260,45,2,77159403
+44,2024-04-15,India,North,Gurugram,SMD Outdoor Active LED Module Based,301621056,57,5291597.47368421,11,India,Haryana,5697,34,1,259606084
+45,2024-11-03,India,North,Ghaziabad,Digital Network Table Top Unit Chairman,10315517,76,135730.48684210525,9,India,Uttar Pradesh,3241,15,4,139287596
+45,2024-11-03,India,North,Ghaziabad,Digital Network Table Top Unit Chairman,10315517,76,135730.48684210525,13,India,Uttar Pradesh,13844,41,3,151950641
+45,2024-11-03,India,North,Ghaziabad,Digital Network Table Top Unit Chairman,10315517,76,135730.48684210525,15,India,Uttar Pradesh,3998,30,1,76919960
+46,2025-01-29,India,North,Noida,Flush Mount Unit Delegate,8176527,16,511032.9375,12,India,Uttar Pradesh,10454,28,7,423979715
+46,2025-01-29,India,North,Noida,Flush Mount Unit Delegate,8176527,16,511032.9375,14,India,Uttar Pradesh,6566,13,10,444995888
+47,2024-06-30,India,North,Noida,SMD Outdoor Active LED Module Based,14064118,87,161656.5287356322,12,India,Uttar Pradesh,10454,28,7,423979715
+47,2024-06-30,India,North,Noida,SMD Outdoor Active LED Module Based,14064118,87,161656.5287356322,14,India,Uttar Pradesh,6566,13,10,444995888
+48,2024-07-20,India,North,Gurugram,AV Bridge,65919488,37,1781607.7837837837,3,India,Haryana,13796,37,6,277407042
+48,2024-07-20,India,North,Gurugram,AV Bridge,65919488,37,1781607.7837837837,8,India,Haryana,10260,45,2,77159403
+48,2024-07-20,India,North,Gurugram,AV Bridge,65919488,37,1781607.7837837837,11,India,Haryana,5697,34,1,259606084
+49,2024-07-09,India,North,Ghaziabad,"All IN ONE Video Wall 108""",9401222,66,142442.75757575757,9,India,Uttar Pradesh,3241,15,4,139287596
+49,2024-07-09,India,North,Ghaziabad,"All IN ONE Video Wall 108""",9401222,66,142442.75757575757,13,India,Uttar Pradesh,13844,41,3,151950641
+49,2024-07-09,India,North,Ghaziabad,"All IN ONE Video Wall 108""",9401222,66,142442.75757575757,15,India,Uttar Pradesh,3998,30,1,76919960
+50,2025-08-14,India,North,Gurugram,Room Controller,412287909,50,8245758.18,3,India,Haryana,13796,37,6,277407042
+50,2025-08-14,India,North,Gurugram,Room Controller,412287909,50,8245758.18,8,India,Haryana,10260,45,2,77159403
+50,2025-08-14,India,North,Gurugram,Room Controller,412287909,50,8245758.18,11,India,Haryana,5697,34,1,259606084
+51,2024-03-01,India,North,Gurugram,Encoder,355653205,53,6710437.8301886795,3,India,Haryana,13796,37,6,277407042
+51,2024-03-01,India,North,Gurugram,Encoder,355653205,53,6710437.8301886795,8,India,Haryana,10260,45,2,77159403
+51,2024-03-01,India,North,Gurugram,Encoder,355653205,53,6710437.8301886795,11,India,Haryana,5697,34,1,259606084
+52,2025-04-05,India,North,Noida,All In One Video Bar,13318543,61,218336.77049180327,12,India,Uttar Pradesh,10454,28,7,423979715
+52,2025-04-05,India,North,Noida,All In One Video Bar,13318543,61,218336.77049180327,14,India,Uttar Pradesh,6566,13,10,444995888
+53,2024-01-06,India,North,Noida,4 x 2 Multiviewer,13495264,55,245368.43636363637,12,India,Uttar Pradesh,10454,28,7,423979715
+53,2024-01-06,India,North,Noida,4 x 2 Multiviewer,13495264,55,245368.43636363637,14,India,Uttar Pradesh,6566,13,10,444995888
+54,2025-03-09,India,North,Faridabad,8*3 Column Speaker,12954069,49,264368.7551020408,4,India,Haryana,10651,13,2,82541181
+54,2025-03-09,India,North,Faridabad,8*3 Column Speaker,12954069,49,264368.7551020408,5,India,Haryana,14931,31,2,183496352
+54,2025-03-09,India,North,Faridabad,8*3 Column Speaker,12954069,49,264368.7551020408,7,India,Haryana,6006,27,8,184113815
+54,2025-03-09,India,North,Faridabad,8*3 Column Speaker,12954069,49,264368.7551020408,10,India,Haryana,10956,40,4,265306864
+55,2024-10-27,India,North,Gurugram,4 - Channel DSP Digital Power Amplifier,296516732,64,4633073.9375,3,India,Haryana,13796,37,6,277407042
+55,2024-10-27,India,North,Gurugram,4 - Channel DSP Digital Power Amplifier,296516732,64,4633073.9375,8,India,Haryana,10260,45,2,77159403
+55,2024-10-27,India,North,Gurugram,4 - Channel DSP Digital Power Amplifier,296516732,64,4633073.9375,11,India,Haryana,5697,34,1,259606084
+56,2025-03-08,India,North,Ghaziabad,Transmitter (120m),8227492,11,747953.8181818182,9,India,Uttar Pradesh,3241,15,4,139287596
+56,2025-03-08,India,North,Ghaziabad,Transmitter (120m),8227492,11,747953.8181818182,13,India,Uttar Pradesh,13844,41,3,151950641
+56,2025-03-08,India,North,Ghaziabad,Transmitter (120m),8227492,11,747953.8181818182,15,India,Uttar Pradesh,3998,30,1,76919960
+57,2025-04-13,India,North,Ghaziabad,6 zone 500 watt PA controller,6448708,34,189667.88235294117,9,India,Uttar Pradesh,3241,15,4,139287596
+57,2025-04-13,India,North,Ghaziabad,6 zone 500 watt PA controller,6448708,34,189667.88235294117,13,India,Uttar Pradesh,13844,41,3,151950641
+57,2025-04-13,India,North,Ghaziabad,6 zone 500 watt PA controller,6448708,34,189667.88235294117,15,India,Uttar Pradesh,3998,30,1,76919960
+58,2025-03-26,India,North,Ghaziabad,4*3 Column Speaker,9102585,29,313882.2413793103,9,India,Uttar Pradesh,3241,15,4,139287596
+58,2025-03-26,India,North,Ghaziabad,4*3 Column Speaker,9102585,29,313882.2413793103,13,India,Uttar Pradesh,13844,41,3,151950641
+58,2025-03-26,India,North,Ghaziabad,4*3 Column Speaker,9102585,29,313882.2413793103,15,India,Uttar Pradesh,3998,30,1,76919960
+59,2024-06-01,India,North,Ghaziabad,64 x 64 Dante DSP,13263486,30,442116.2,9,India,Uttar Pradesh,3241,15,4,139287596
+59,2024-06-01,India,North,Ghaziabad,64 x 64 Dante DSP,13263486,30,442116.2,13,India,Uttar Pradesh,13844,41,3,151950641
+59,2024-06-01,India,North,Ghaziabad,64 x 64 Dante DSP,13263486,30,442116.2,15,India,Uttar Pradesh,3998,30,1,76919960
+60,2025-02-27,India,North,Noida,Wireless Headworn Microphone,12103560,28,432270.0,12,India,Uttar Pradesh,10454,28,7,423979715
+60,2025-02-27,India,North,Noida,Wireless Headworn Microphone,12103560,28,432270.0,14,India,Uttar Pradesh,6566,13,10,444995888
+61,2025-03-24,India,North,Faridabad,Flush Mount Unit Delegate,11709907,62,188869.46774193548,4,India,Haryana,10651,13,2,82541181
+61,2025-03-24,India,North,Faridabad,Flush Mount Unit Delegate,11709907,62,188869.46774193548,5,India,Haryana,14931,31,2,183496352
+61,2025-03-24,India,North,Faridabad,Flush Mount Unit Delegate,11709907,62,188869.46774193548,7,India,Haryana,6006,27,8,184113815
+61,2025-03-24,India,North,Faridabad,Flush Mount Unit Delegate,11709907,62,188869.46774193548,10,India,Haryana,10956,40,4,265306864
+62,2024-09-19,India,North,Delhi,Battery,349987432,88,3977129.909090909,1,India,Delhi,14851,46,10,303763327
+62,2024-09-19,India,North,Delhi,Battery,349987432,88,3977129.909090909,2,India,Delhi,10749,36,4,100640778
+62,2024-09-19,India,North,Delhi,Battery,349987432,88,3977129.909090909,6,India,Delhi,6116,44,8,125259798
+63,2024-08-30,India,North,Noida,16 x 16 Matrix Switcher,5623273,85,66156.15294117646,12,India,Uttar Pradesh,10454,28,7,423979715
+63,2024-08-30,India,North,Noida,16 x 16 Matrix Switcher,5623273,85,66156.15294117646,14,India,Uttar Pradesh,6566,13,10,444995888
+64,2024-07-18,India,North,Faridabad,12X PTZ Camera,12744315,85,149933.11764705883,4,India,Haryana,10651,13,2,82541181
+64,2024-07-18,India,North,Faridabad,12X PTZ Camera,12744315,85,149933.11764705883,5,India,Haryana,14931,31,2,183496352
+64,2024-07-18,India,North,Faridabad,12X PTZ Camera,12744315,85,149933.11764705883,7,India,Haryana,6006,27,8,184113815
+64,2024-07-18,India,North,Faridabad,12X PTZ Camera,12744315,85,149933.11764705883,10,India,Haryana,10956,40,4,265306864
+65,2024-01-20,India,North,Noida,Gooseneck Mic,6752400,30,225080.0,12,India,Uttar Pradesh,10454,28,7,423979715
+65,2024-01-20,India,North,Noida,Gooseneck Mic,6752400,30,225080.0,14,India,Uttar Pradesh,6566,13,10,444995888
+66,2024-08-18,India,North,Ghaziabad,2 Channel Power Amplifer,12871852,62,207610.51612903227,9,India,Uttar Pradesh,3241,15,4,139287596
+66,2024-08-18,India,North,Ghaziabad,2 Channel Power Amplifer,12871852,62,207610.51612903227,13,India,Uttar Pradesh,13844,41,3,151950641
+66,2024-08-18,India,North,Ghaziabad,2 Channel Power Amplifer,12871852,62,207610.51612903227,15,India,Uttar Pradesh,3998,30,1,76919960
+67,2025-05-06,India,North,Noida,Encoder,8967092,67,133837.19402985074,12,India,Uttar Pradesh,10454,28,7,423979715
+67,2025-05-06,India,North,Noida,Encoder,8967092,67,133837.19402985074,14,India,Uttar Pradesh,6566,13,10,444995888
+68,2025-03-11,India,North,Ghaziabad,Wired Conference Controller,5658551,78,72545.52564102564,9,India,Uttar Pradesh,3241,15,4,139287596
+68,2025-03-11,India,North,Ghaziabad,Wired Conference Controller,5658551,78,72545.52564102564,13,India,Uttar Pradesh,13844,41,3,151950641
+68,2025-03-11,India,North,Ghaziabad,Wired Conference Controller,5658551,78,72545.52564102564,15,India,Uttar Pradesh,3998,30,1,76919960
+69,2025-04-10,India,North,Delhi,12X Speaker Tracking PTZ Camera,108944009,34,3204235.5588235296,1,India,Delhi,14851,46,10,303763327
+69,2025-04-10,India,North,Delhi,12X Speaker Tracking PTZ Camera,108944009,34,3204235.5588235296,2,India,Delhi,10749,36,4,100640778
+69,2025-04-10,India,North,Delhi,12X Speaker Tracking PTZ Camera,108944009,34,3204235.5588235296,6,India,Delhi,6116,44,8,125259798
+70,2024-01-02,India,North,Noida,Digital Network Table Top Unit Chairman,7687648,14,549117.7142857143,12,India,Uttar Pradesh,10454,28,7,423979715
+70,2024-01-02,India,North,Noida,Digital Network Table Top Unit Chairman,7687648,14,549117.7142857143,14,India,Uttar Pradesh,6566,13,10,444995888
+71,2024-04-07,India,North,Delhi,8 x 8 Matrix Switcher,39134085,65,602062.8461538461,1,India,Delhi,14851,46,10,303763327
+71,2024-04-07,India,North,Delhi,8 x 8 Matrix Switcher,39134085,65,602062.8461538461,2,India,Delhi,10749,36,4,100640778
+71,2024-04-07,India,North,Delhi,8 x 8 Matrix Switcher,39134085,65,602062.8461538461,6,India,Delhi,6116,44,8,125259798
+72,2025-04-22,India,North,Delhi,6 zone 500 watt PA controller,233367851,63,3704251.603174603,1,India,Delhi,14851,46,10,303763327
+72,2025-04-22,India,North,Delhi,6 zone 500 watt PA controller,233367851,63,3704251.603174603,2,India,Delhi,10749,36,4,100640778
+72,2025-04-22,India,North,Delhi,6 zone 500 watt PA controller,233367851,63,3704251.603174603,6,India,Delhi,6116,44,8,125259798
+73,2024-10-16,India,North,Delhi,12 Zone network paging microphone for SR-6500,388053714,19,20423879.684210528,1,India,Delhi,14851,46,10,303763327
+73,2024-10-16,India,North,Delhi,12 Zone network paging microphone for SR-6500,388053714,19,20423879.684210528,2,India,Delhi,10749,36,4,100640778
+73,2024-10-16,India,North,Delhi,12 Zone network paging microphone for SR-6500,388053714,19,20423879.684210528,6,India,Delhi,6116,44,8,125259798
+74,2025-04-02,India,North,Delhi,4 x 2 Multiviewer,255357408,80,3191967.6,1,India,Delhi,14851,46,10,303763327
+74,2025-04-02,India,North,Delhi,4 x 2 Multiviewer,255357408,80,3191967.6,2,India,Delhi,10749,36,4,100640778
+74,2025-04-02,India,North,Delhi,4 x 2 Multiviewer,255357408,80,3191967.6,6,India,Delhi,6116,44,8,125259798
+75,2024-01-05,India,North,Delhi,Bronx Illuminated Button,58207003,79,736797.506329114,1,India,Delhi,14851,46,10,303763327
+75,2024-01-05,India,North,Delhi,Bronx Illuminated Button,58207003,79,736797.506329114,2,India,Delhi,10749,36,4,100640778
+75,2024-01-05,India,North,Delhi,Bronx Illuminated Button,58207003,79,736797.506329114,6,India,Delhi,6116,44,8,125259798
+76,2024-10-27,India,North,Gurugram,"110"" Interactive Flat Panel Display",133559015,44,3035432.159090909,3,India,Haryana,13796,37,6,277407042
+76,2024-10-27,India,North,Gurugram,"110"" Interactive Flat Panel Display",133559015,44,3035432.159090909,8,India,Haryana,10260,45,2,77159403
+76,2024-10-27,India,North,Gurugram,"110"" Interactive Flat Panel Display",133559015,44,3035432.159090909,11,India,Haryana,5697,34,1,259606084
+77,2025-01-17,India,North,Noida,Wireless Presentation Device,13390188,63,212542.66666666666,12,India,Uttar Pradesh,10454,28,7,423979715
+77,2025-01-17,India,North,Noida,Wireless Presentation Device,13390188,63,212542.66666666666,14,India,Uttar Pradesh,6566,13,10,444995888
+78,2025-04-19,India,North,Ghaziabad,Digital Podium,11800182,72,163891.41666666666,9,India,Uttar Pradesh,3241,15,4,139287596
+78,2025-04-19,India,North,Ghaziabad,Digital Podium,11800182,72,163891.41666666666,13,India,Uttar Pradesh,13844,41,3,151950641
+78,2025-04-19,India,North,Ghaziabad,Digital Podium,11800182,72,163891.41666666666,15,India,Uttar Pradesh,3998,30,1,76919960
+79,2024-02-03,India,North,Noida,WiFi based Wireless Touch Screen Conference Unit,6152895,34,180967.5,12,India,Uttar Pradesh,10454,28,7,423979715
+79,2024-02-03,India,North,Noida,WiFi based Wireless Touch Screen Conference Unit,6152895,34,180967.5,14,India,Uttar Pradesh,6566,13,10,444995888
+80,2025-01-28,India,North,Noida,4 - Channel DSP Digital Power Amplifier,12972251,56,231647.3392857143,12,India,Uttar Pradesh,10454,28,7,423979715
+80,2025-01-28,India,North,Noida,4 - Channel DSP Digital Power Amplifier,12972251,56,231647.3392857143,14,India,Uttar Pradesh,6566,13,10,444995888

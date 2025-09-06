@@ -1,0 +1,51 @@
+Employee_ID,Job_Title,Annual_Leave_Days,Sick_Leave_Days,Bonus_INR,Store_ID
+1,Manager,14,6,52098,4
+2,Sales Rep,25,3,108696,12
+3,Analyst,15,8,24165,1
+4,Manager,17,5,86237,10
+5,Manager,22,5,113850,11
+6,Analyst,20,5,78878,10
+7,Technician,14,4,111506,7
+8,Technician,18,4,48221,13
+9,Technician,15,3,69797,2
+10,Technician,19,6,125791,1
+11,Engineer,22,3,147548,15
+12,Engineer,15,10,58427,14
+13,Analyst,19,5,112349,2
+14,Manager,24,5,121327,5
+15,Manager,17,3,69823,5
+16,Engineer,24,7,41319,6
+17,Technician,17,6,111988,15
+18,Manager,23,4,90010,12
+19,Sales Rep,16,9,69735,5
+20,Analyst,17,7,130474,13
+21,Manager,17,2,125518,6
+22,Engineer,18,3,47653,15
+23,Analyst,25,7,47869,11
+24,Engineer,20,9,38726,5
+25,Sales Rep,17,10,90644,5
+26,Analyst,20,8,67447,4
+27,Sales Rep,22,9,31915,13
+28,Manager,15,4,102240,3
+29,Engineer,23,3,70432,7
+30,Analyst,21,10,52953,9
+31,Manager,24,3,109353,15
+32,Analyst,18,7,34621,5
+33,Engineer,16,9,20425,12
+34,Technician,22,4,86542,15
+35,Manager,24,6,130319,11
+36,Analyst,23,5,40032,6
+37,Sales Rep,22,10,140388,1
+38,Analyst,19,9,22552,2
+39,Technician,18,5,27592,4
+40,Analyst,15,3,115932,8
+41,Manager,22,4,36828,11
+42,Engineer,22,4,54741,9
+43,Analyst,20,5,141754,9
+44,Sales Rep,25,6,72296,11
+45,Technician,21,10,79177,2
+46,Sales Rep,17,3,64313,1
+47,Analyst,22,5,97128,4
+48,Manager,15,2,50007,2
+49,Manager,19,3,87391,4
+50,Technician,24,9,48080,9

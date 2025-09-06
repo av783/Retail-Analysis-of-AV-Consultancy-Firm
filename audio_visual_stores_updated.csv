@@ -1,0 +1,16 @@
+Store_ID,Country,State,City,Size_SqFt,Num_Employees,Trading_Duration_Years,Revenue_INR
+1,India,Delhi,Delhi,14851,46,10,303763327
+2,India,Delhi,Delhi,10749,36,4,100640778
+3,India,Haryana,Gurugram,13796,37,6,277407042
+4,India,Haryana,Faridabad,10651,13,2,82541181
+5,India,Haryana,Faridabad,14931,31,2,183496352
+6,India,Delhi,Delhi,6116,44,8,125259798
+7,India,Haryana,Faridabad,6006,27,8,184113815
+8,India,Haryana,Gurugram,10260,45,2,77159403
+9,India,Uttar Pradesh,Ghaziabad,3241,15,4,139287596
+10,India,Haryana,Faridabad,10956,40,4,265306864
+11,India,Haryana,Gurugram,5697,34,1,259606084
+12,India,Uttar Pradesh,Noida,10454,28,7,423979715
+13,India,Uttar Pradesh,Ghaziabad,13844,41,3,151950641
+14,India,Uttar Pradesh,Noida,6566,13,10,444995888
+15,India,Uttar Pradesh,Ghaziabad,3998,30,1,76919960
